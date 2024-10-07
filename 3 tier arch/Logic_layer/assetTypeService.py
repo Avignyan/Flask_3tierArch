@@ -1,4 +1,4 @@
-# service/asset_type_service.py
+
 from Db_layer.asset_type_dao import AssetTypeDAO
 
 class AssetTypeService:
