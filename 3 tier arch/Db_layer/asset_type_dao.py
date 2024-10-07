@@ -1,7 +1,6 @@
 # dao/asset_type_dao.py
 class AssetTypeDAO:
     def __init__(self):
-        # Simulating in-memory data store
         self.asset_types = {}
 
     def get_all(self):
